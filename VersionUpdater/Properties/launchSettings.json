@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VersionUpdater": {
+      "commandName": "Project",
+      "commandLineArgs": "patch c:\\data\\ProjectDetails.json"
+    }
+  }
+}
